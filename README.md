@@ -34,6 +34,9 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/zotero-tomato?logo=zotero&logoColor=white">
 </p>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=guotree&label=Views&color=1&icon=6&pretty=false" />
+</a>
 
 <!--
 **guotree/guotree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

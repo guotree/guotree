@@ -34,6 +34,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/zotero-tomato?logo=zotero&logoColor=white">
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guotree)](https://github.com/anuraghazra/github-readme-stats?count_private=true&show_icons=true&theme=swift)
+
 <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=guotree&label=Views&color=1&icon=6&pretty=false" /></a>
 
 

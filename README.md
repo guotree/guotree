@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <a href="mailto:guochirui@outlook.com" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/guochirui%40outlook.com-dodgerblue?logo=Gmail&logoColor=white">
   </a>
-  <a href="www.linkedin.com/in/chirui-guo-3ab4a8101" target="_blank">
+  <a href="https://www.linkedin.com/in/chirui-guo-3ab4a8101" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
   </a>
 </p>

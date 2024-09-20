@@ -26,9 +26,14 @@ Here are some ideas to get you started:
 
 
 <p><strong>Languages, Frameworks and Tools</strong></p>
-
-![Static Badge](https://img.shields.io/badge/Python-Advanced-red?logo=Python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/R-Intermediate-orange?logo=R&logoColor=white)
-![Static Badge](https://img.shields.io/badge/C-Intermediate-orange?logo=C&logoColor=white)
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/R-blue?logo=R&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C-blue?logo=C&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-orange?logo=TensorFlow&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/ScikitLearn-orange?logo=scikitlearn&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/pandas-purple?logo=pandas&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/tableau-grey?logo=tableau&logoColor=white">
+</p>
 
 

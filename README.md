@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/R-blue?logo=R&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/C-blue?logo=C&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Git-red?logo=git&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-orange?logo=TensorFlow&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/ScikitLearn-orange?logo=scikitlearn&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/pandas-purple?logo=pandas&logoColor=white">

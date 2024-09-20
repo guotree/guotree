@@ -20,8 +20,6 @@
 
 <p>I will share some notes and projects here</p>
 
-<p><strong>Languages, Frameworks and Tools</strong></p>
-
 ## ⭐ GitHub Stats
 
 <p align="center" style="width: 100%;">

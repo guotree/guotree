@@ -34,6 +34,9 @@ Here are some ideas to get you started:
   <img alt="Static Badge" src="https://img.shields.io/badge/ScikitLearn-orange?logo=scikitlearn&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/pandas-purple?logo=pandas&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/tableau-grey?logo=tableau&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Numpy-darkgrey?logo=Numpy&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Obsidian-rgb(108%2C49%2C227)?logo=obsidian&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/zotero-tomato?logo=zotero&logoColor=white">
 </p>
 
 

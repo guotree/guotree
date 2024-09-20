@@ -27,9 +27,11 @@ Here are some ideas to get you started:
   <li>🏫 <b>Tianjin University</b>: Bachelor's degree in Mathematics and Applied Mathematics</li>
   <li>🎓 <b>The Hong Kong University of Science and Technology</b>: Master's degree in Data-Driven Modeling</li>
   <li>🧑‍💻 <b>Postal Savings Bank of China Ltd</b>: Product Manager & Data Analyst in Data asset management platform</li>
-  <li>🌱 I’m currently applying for a Ph.D. in the field of data science.</li>
+  <li>🌱 I’m currently learning Computer Science myself with the guidance of <a href="https://teachyourselfcs.com/" target="_blank">"Teach Yourself Computer Science"</a> and <a href="https://csdiy.wiki/" target="_blank">"csdiy.wiki"</a></li>
+  <li>🔭 I’m currently applying for a <b>Ph.D.</b> in the field of data science.</li>
 </ul>
 
+<p>I will share some notes and projects here</p>
 
 <p><strong>Languages, Frameworks and Tools</strong></p>
 <p>

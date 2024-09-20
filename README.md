@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <li>🏫 <b>Tianjin University</b>: Bachelor's degree in Mathematics and Applied Mathematics</li>
   <li>🎓 <b>The Hong Kong University of Science and Technology</b>: Master's degree in Data-Driven Modeling</li>
   <li>🧑‍💻 <b>Postal Savings Bank of China Ltd</b>: Product Manager & Data Analyst in Data asset management platform</li>
+  <li>🌱 I’m currently applying for a Ph.D. in the field of data science.</li>
 </ul>
 
 

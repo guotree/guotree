@@ -44,7 +44,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white">
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-blue?style=flat&logo=mysql&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-blue?style=flat&logo=sqlite&logoColor=white">
   <img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-yellow?style=flat&logo=elasticsearch&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-red?style=flat&logo=git&logoColor=white">
   <img alt="pytorch" src="https://img.shields.io/badge/Pytorch-orange?style=flat&logo=pytorch&logoColor=white">

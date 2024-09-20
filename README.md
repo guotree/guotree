@@ -24,10 +24,15 @@
 
 ## ⭐ GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats?count_private=true&show_icons=true&theme=swift&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=guotree" />
-  </a>
+<p align="center" style="width: 100%;">
+    <span style="width: 100%;">
+        <a href="https://git.io/streak-stats">
+          <img align="center" style="width:49%;height:100%;" src="https://github-readme-streak-stats.herokuapp.com?user=guotree&theme=swift" alt="guotree" />
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats?count_private=true&show_icons=true&theme=swift&include_all_commits=true">
+          <img align="center" style="width:49%;height:90%;" src="https://github-readme-stats.vercel.app/api?username=guotree&show_icons=true&locale=en&theme=swift" alt="guotree" />
+        </a>
+    </span>
 </p>
 
 ## 🔧 Tech Stack

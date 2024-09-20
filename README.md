@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="mailto:guochirui@outlook.com" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/guochirui%40outlook.com-dodgerblue?logo=Gmail&logoColor=white">
+  </a>
+  <a href="www.linkedin.com/in/chirui-guo-3ab4a8101" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+
+
+<p><strong>Languages, Frameworks and Tools</strong></p>
+
+![Static Badge](https://img.shields.io/badge/Python-Advanced-red?logo=Python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/R-Intermediate-orange?logo=R&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C-Intermediate-orange?logo=C&logoColor=white)
+
+

@@ -23,6 +23,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<ul>
+  <li>🏫 <b>Tianjin University</b>: Bachelor's degree in Mathematics and Applied Mathematics</li>
+  <li>🎓 <b>The Hong Kong University of Science and Technology</b>: Master's degree in Data-Driven Modeling</li>
+  <li>🧑‍💻 <b>Postal Savings Bank of China Ltd</b>: Product Manager & Data Analyst in Data asset management platform</li>
+</ul>
 
 
 <p><strong>Languages, Frameworks and Tools</strong></p>

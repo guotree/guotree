@@ -1,4 +1,4 @@
-## 💫 About Me 
+<h1 align="left">💫 About Me</h1>
 
 <p align="center">
   <a href="mailto:guochirui@outlook.com" target="_blank">
@@ -20,7 +20,7 @@
 
 <p>I will share some notes and projects here</p>
 
-## ⭐ GitHub Stats
+<h1 align="left">⭐ GitHub Stats</h1>
 
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
@@ -33,7 +33,7 @@
     </span>
 </p>
 
-## 🔧 Tech Stack
+<h1 align="left">🔧 Tech Stack</h1>
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white">

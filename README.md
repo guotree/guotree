@@ -33,17 +33,29 @@
 ## 🔧 Tech Stack
 
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/R-blue?logo=R&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/C-blue?logo=C&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Git-red?logo=git&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-orange?logo=TensorFlow&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/ScikitLearn-orange?logo=scikitlearn&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/pandas-purple?logo=pandas&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/tableau-grey?logo=tableau&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Numpy-darkgrey?logo=Numpy&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Obsidian-rgb(108%2C49%2C227)?logo=obsidian&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/zotero-tomato?logo=zotero&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white">
+  <img alt="R" src="https://img.shields.io/badge/R-blue?style=flat&logo=R&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-blue?style=flat&logo=C&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-yellow?style=flat&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-blue?style=flat&logo=mysql&logoColor=white">
+  <img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-yellow?style=flat&logo=elasticsearch&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-red?style=flat&logo=git&logoColor=white">
+  <img alt="pytorch" src="https://img.shields.io/badge/Pytorch-orange?style=flat&logo=pytorch&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=TensorFlow&logoColor=white">
+  <img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit_Learn-orange?style=flat&logo=scikitlearn&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-purple?style=flat&logo=pandas&logoColor=white">
+  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-darkgrey?style=flat&logo=Numpy&logoColor=white">
+  <img alt="Scipy" src="https://img.shields.io/badge/Scipy-darkblue?style=flat&logo=Scipy&logoColor=white">
+  <img alt="Plotly" src="https://img.shields.io/badge/Plotly-blue?style=flat&logo=plotly&logoColor=white">
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-grey?style=flat&logo=tableau&logoColor=white">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white">
+  <img alt="LaTex" src="https://img.shields.io/badge/LaTex-%23008080.svg?style=flat&logo=latex&logoColor=white">
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-rgb(108%2C49%2C227)?style=flat&logo=obsidian&logoColor=white">
+  <img alt="Zotero" src="https://img.shields.io/badge/Zotero-tomato?style=flat&logo=zotero&logoColor=white">
 </p>
 
 

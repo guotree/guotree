@@ -36,9 +36,8 @@
 
 <script src="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6.js"></script>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=guotree&label=Views&color=1&icon=6&pretty=false" />
-</a>
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=guotree&label=Views&color=1&icon=6&pretty=false" /></a>
+
 
 <!--
 **guotree/guotree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

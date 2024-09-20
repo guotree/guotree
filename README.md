@@ -34,7 +34,9 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/zotero-tomato?logo=zotero&logoColor=white">
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guotree)](https://github.com/anuraghazra/github-readme-stats?count_private=true&show_icons=true&theme=swift)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guotree)](https://github.com/anuraghazra/github-readme-stats?count_private=true&show_icons=true&theme=swift&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guotree)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=guotree&label=Views&color=1&icon=6&pretty=false" /></a>
 

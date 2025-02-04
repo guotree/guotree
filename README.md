@@ -7,7 +7,6 @@
   <a href="https://www.linkedin.com/in/chirui-guo-3ab4a8101" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
   </a>
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=guotree&label=Views&color=1&icon=6&pretty=false" /></a>
 </p>
 
 <ul>

@@ -61,11 +61,6 @@
   <img alt="Zotero" src="https://img.shields.io/badge/Zotero-tomato?style=flat&logo=zotero&logoColor=white">
 </p>
 
-
-
-
-
-
 <!--
 **guotree/guotree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

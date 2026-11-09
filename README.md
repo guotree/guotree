@@ -27,7 +27,7 @@
     <img src="https://streak-stats.demolab.com?user=guotree&theme=flag-india" alt="GitHub Streak" width="49%" />
   </a>
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=guotree&show_icons=true&locale=en&theme=flag-india&include_all_commits=true&count_private=true&card_width=495&v=20261108" alt="guotree" width="49%" />
+    <img src="https://github-stats-extended.vercel.app/api?username=guotree&show_icons=true&locale=en&theme=flag-india&include_all_commits=true&count_private=true&card_width=495&v=20261109" alt="guotree" width="49%" />
   </a>
 </p>
 
